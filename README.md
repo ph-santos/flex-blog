@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-### Link do projeto (ph-santos.github.io/flex-blog/)
+### Link do projeto (https://ph-santos.github.io/flex-blog/)
 
 Esse projeto foi desenvolvido durante o curso de flex box do **Origamid** (https://www.origamid.com/curso/css-flexbox/).
 
